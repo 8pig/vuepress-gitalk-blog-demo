@@ -1,4 +1,4 @@
 # start
-yarn 
-yarn run dev
-yarn run build
+yarn  
+yarn run dev  
+yarn run build  
